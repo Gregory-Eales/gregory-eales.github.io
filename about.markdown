@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+** still a work in progress **
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hey, welcome to my blog! I’m a Machine Learning Engineer currently @ Dynata working mainly on fraud detection and modelling user behavior. With recent advances in the field of AI taken up an interest in AI safety and interpretability and am looking to get into a more research oriented role in the future. This blog aims to document my thoughts and various projects I’ll be working on towards this goal.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Places you can find me:
+[linkedin](https://www.linkedin.com/in/gregory-eales/) /
+[github](https://github.com/Gregory-Eales)
 
-
-[jekyll-organization]: https://github.com/jekyll
